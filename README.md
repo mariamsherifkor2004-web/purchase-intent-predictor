@@ -741,17 +741,10 @@ The structure above shows the main project files and directories. Additional fil
 
 ### Step 1: Clone the Repository
 
-```bash
-<img width="1920" height="1080" alt="Screenshot (525)" src="https://github.com/user-attachments/assets/a1b555dd-68a2-4676-b9e5-54689339017b" />
-<img width="1483" height="742" alt="Screenshot 2026-11-11 204058" src="https://github.com/user-attachments/assets/e18ba5ee-af76-4c61-8e4e-64604e2638d0" />
-<img width="1338" height="375" alt="Screenshot 2026-11-11 204322" src="https://github.com/user-attachments/assets/d12ab0f1-f37a-48e8-ae7c-b4d0ab7c933e" />
-<img width="576" height="425" alt="Screenshot 2026-11-11 204306" src="https://github.com/user-attachments/assets/75e53f9c-191c-4398-ae68-4e0a14c8fab0" />
-<img width="1175" height="493" alt="Screenshot 2026-11-11 204239" src="https://github.com/user-attachments/assets/be629b8e-6da1-42e4-9991-9f9a4eafe436" />
-<img width="1286" height="442" alt="Screenshot 2026-11-11 204202" src="https://github.com/user-attachments/assets/cee62e86-20e9-4c00-b39e-8d571552e3a7" />
-<img width="1337" height="447" alt="Screenshot 2026-11-11 204125" src="https://github.com/user-attachments/assets/7a84b609-961e-444b-a776-7e1a8f02ba01" />
-<img width="1481" height="675" alt="Screenshot 2026-11-11 204106" src="https://github.com/user-attachments/assets/db751701-7851-459b-9baa-82ffd7fdfbb2" />
+[```bash
+
 (https://github.com/mariamsherifkor2004-web/purchase-intent-predictor.git)
-```
+```](https://github.com/mariamsherifkor2004-web/purchase-intent-predictor/tree/main/assets/images)
 
 Replace `(https://github.com/mariamsherifkor2004-web/purchase-intent-predictor.git)` with the actual repository URL.
 
